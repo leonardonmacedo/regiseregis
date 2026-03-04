@@ -1,0 +1,35 @@
+.ver-mais {
+    margin-top: 30px;
+    padding: 12px 20px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.gallery {
+    padding: 40px;
+    font-size: 1rem;
+}
+
+.filters {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.filters input,
+.filters select {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+@media (max-width: 500px) {
+    .gallery {
+    padding: 40px;
+    font-size: 1rem;
+}
+}
