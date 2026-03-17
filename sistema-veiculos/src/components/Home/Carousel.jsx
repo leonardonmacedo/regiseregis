@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./Carousel.css";
 
 const images = [
-    "/src/assets/images/carro1.jpg",
+    "./src/assets/images/carro1.jpg",
     "/src/assets/images/carro2.jpg",
     "/src/assets/images/carro3.jpg",
 ];
