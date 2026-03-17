@@ -5,7 +5,7 @@ const vehicles = [
         brand: "Honda",
         price: 75000,
         images: [
-            "/src/assets/images/carro1.jpg",
+            "sistema-veiculos/src/assets/images/carro1.jpg",
             "/src/assets/images/carro2.jpg",
             "/src/assets/images/carro3.jpg"
         ]
